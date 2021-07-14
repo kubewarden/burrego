@@ -1,3 +1,5 @@
+> **NOTE Well:** currently archived. This code is now part of kubewarden
+
 # Burrego
 
 **⚠️  experimental ⚠️**
